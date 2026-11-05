@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/atmospheric-soundtrack-bass-simple-synth-preview.mp3",
+  "preview_sha256": "6c58fa99789796f214c714c691bd30924a5fae7d6b8ba92d1f900868bf2852cc",
+  "source_midi_path": "midi/z7401-atmospheric-soundtrack-bass-opening/z7401-atmospheric-soundtrack-bass-opening-combined.mid",
+  "source_midi_sha256": "23eca46c434025d19b82d27cff1473d8790c81c2d5ffa1075a04e4d868993737",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z7401",
+    "start_seconds": 0,
+    "end_seconds": 106.667
+  },
+  "measurement": {
+    "sample_peak": 0.141658,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

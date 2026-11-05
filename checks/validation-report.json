@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:26.666143+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z7401-atmospheric-soundtrack-bass-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "1cb384009a6c088ccaa6c2a584c559509328eae28449719abf2e62a292048927",
+      "errors": []
+    },
+    {
+      "path": "midi/z7401-atmospheric-soundtrack-bass-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8fc93384f934ef70ceeccb08d06858b70e19c4cbc8a6d796ace8c1cc642decd0",
+      "errors": []
+    },
+    {
+      "path": "midi/z7401-atmospheric-soundtrack-bass-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7401-atmospheric-soundtrack-bass-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "6cb9918169a9e4aae5456859b0ad8ae513e89f4c51e5a5a2941d48e7b79572ab",
+      "errors": []
+    },
+    {
+      "path": "midi/z7401-atmospheric-soundtrack-bass-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "4f33aaa341f86527a48be6130cbc77ac73fb81d1d2279914c7bd5a95178408d3",
+      "errors": []
+    },
+    {
+      "path": "midi/z7401-atmospheric-soundtrack-bass-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cd64a01b78eb372f982d9a1f9b6a3c5666b4be47216b9fc8db7a5c1bf5ba9592",
+      "errors": []
+    },
+    {
+      "path": "midi/z7401-atmospheric-soundtrack-bass-opening/z7401-atmospheric-soundtrack-bass-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "23eca46c434025d19b82d27cff1473d8790c81c2d5ffa1075a04e4d868993737",
+      "errors": []
+    },
+    {
+      "path": "midi/z7402-atmospheric-soundtrack-bass-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "3a36ae9deda968fab343066a2aed3f23f896a44fea3a684e21aa68aed568d277",
+      "errors": []
+    },
+    {
+      "path": "midi/z7402-atmospheric-soundtrack-bass-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "aaccc70382c173ed3638cfff1a204b66c088b30bd5f13bffb7d152c689244298",
+      "errors": []
+    },
+    {
+      "path": "midi/z7402-atmospheric-soundtrack-bass-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7402-atmospheric-soundtrack-bass-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "6fb2a96155a7dc492b22f81fcb159a56ac8f565a630e929f9935e73c41b8d4c3",
+      "errors": []
+    },
+    {
+      "path": "midi/z7402-atmospheric-soundtrack-bass-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "77cf51bc2e1b569ec1d92b59aac172949255c2ca1d613f209df6c8da994a8187",
+      "errors": []
+    },
+    {
+      "path": "midi/z7402-atmospheric-soundtrack-bass-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "a10823263ed68fa7a8f1b75c2dc69b7c0bce612c08bf2a441a07965f9c3d514c",
+      "errors": []
+    },
+    {
+      "path": "midi/z7402-atmospheric-soundtrack-bass-variation/z7402-atmospheric-soundtrack-bass-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "e6ddfae376aeadb6800aa7f3323977574ecd20c0cfcedb84a5b477e9c1e1bd41",
+      "errors": []
+    },
+    {
+      "path": "midi/z7403-atmospheric-soundtrack-bass-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "6f16a717a14bfd39920fd7500470150fe1057224eac65bbeacacfb9da842da62",
+      "errors": []
+    },
+    {
+      "path": "midi/z7403-atmospheric-soundtrack-bass-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ee09f69fa5594b9a1025f7fc4f213795dda01c253a16ee75d33fcdf40cf940bf",
+      "errors": []
+    },
+    {
+      "path": "midi/z7403-atmospheric-soundtrack-bass-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7403-atmospheric-soundtrack-bass-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "f12ec085647d6354488723317f5cc4fc7f0a4e02ff3f2c565667f092be775607",
+      "errors": []
+    },
+    {
+      "path": "midi/z7403-atmospheric-soundtrack-bass-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "407952432d8d32bef02a0a88b10eb0cf1f888d0ca6c31010b2b34859dc1d5abc",
+      "errors": []
+    },
+    {
+      "path": "midi/z7403-atmospheric-soundtrack-bass-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ce20ddf597092642c21a9294b2db07845245542f0fd4c74aefe0252bd8138e4c",
+      "errors": []
+    },
+    {
+      "path": "midi/z7403-atmospheric-soundtrack-bass-contrast/z7403-atmospheric-soundtrack-bass-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "ad8c511f8c5711c815ac4f5001349d7c6d01eafa31d2736bbd3dc34dfbdfb6ee",
+      "errors": []
+    },
+    {
+      "path": "midi/z7404-atmospheric-soundtrack-bass-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "168bc0ddd321a747c0cb5db0571d97deeb42a2f687ac8baef2174997bb1c0298",
+      "errors": []
+    },
+    {
+      "path": "midi/z7404-atmospheric-soundtrack-bass-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "51a8bf06b0419d133d0c4489989a5b108ebb099e6b9c7cf3e35fb79b3bae27bc",
+      "errors": []
+    },
+    {
+      "path": "midi/z7404-atmospheric-soundtrack-bass-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7404-atmospheric-soundtrack-bass-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "f21a2ca79cd10543103147734b4437bf794b9b6ddaa8235bc9581e0c64d347c3",
+      "errors": []
+    },
+    {
+      "path": "midi/z7404-atmospheric-soundtrack-bass-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "146cbc0273c602109a79c313f8f69f4dd6fd2401a649e1452b46203400deeeac",
+      "errors": []
+    },
+    {
+      "path": "midi/z7404-atmospheric-soundtrack-bass-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8f27bf4d2da874984705d47f3526535f9e21af22caed75480c1d0104d50f47ff",
+      "errors": []
+    },
+    {
+      "path": "midi/z7404-atmospheric-soundtrack-bass-return/z7404-atmospheric-soundtrack-bass-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "8ab02f0f4859d25827dfcc39e240f69a2600a985bb2652be5e10080dd4b75c80",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

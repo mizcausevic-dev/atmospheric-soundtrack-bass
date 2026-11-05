@@ -1,0 +1,26 @@
+{
+  "title": "Atmospheric Soundtrack Bass",
+  "study": "z7401",
+  "bpm": 72,
+  "source_audio": "preview/atmospheric-soundtrack-bass-simple-synth-preview.mp3",
+  "source_audio_sha256": "6c58fa99789796f214c714c691bd30924a5fae7d6b8ba92d1f900868bf2852cc",
+  "source_midi": "midi/z7401-atmospheric-soundtrack-bass-opening/z7401-atmospheric-soundtrack-bass-opening-combined.mid",
+  "source_midi_sha256": "23eca46c434025d19b82d27cff1473d8790c81c2d5ffa1075a04e4d868993737",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "381dfc4ba76e77e55c4109aafa9065c5e5878af9c2e0612f13aecdb67d78bde6",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "a2262242674675cac349db187adef7365338be16ddc54676e4f6a1e40498da2f",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "6be942a07b7bd1f01b8ca76bc4de02bdc3bdaa32aa05774d1c0de75f36ac8fe6",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
